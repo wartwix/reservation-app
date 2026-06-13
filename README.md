@@ -1,52 +1,53 @@
 # 🏨 Reservation App
 
-Application web de gestion de réservations développée dans le cadre d'un TP React à l'ISEP.
+A web application for managing online reservations, built as a React practical assignment at ISEP.
+
+## 🌐 Live Demo
+
+👉 **[https://wartwix.github.io/reservation-app/](https://wartwix.github.io/reservation-app/)**
+
+No download required — open the link and use it directly in your browser.
 
 ## 📋 Description
 
-Cette application simule un système de réservation en ligne permettant à l'utilisateur de :
+This application simulates an online reservation system where users can:
 
-- Consulter les disponibilités
-- Choisir une date et une heure de réservation
-- Réaliser une réservation
-- Consulter la liste de ses réservations
-- Modifier ou annuler une réservation existante
+- Browse available rooms/tables
+- Choose a date and time
+- Make a reservation
+- View the list of their reservations
+- Edit or cancel an existing reservation
 
-> Les données sont gérées entièrement côté front-end (pas de base de données).
+> All data is managed client-side (no database).
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-- [React](https://react.dev/) — composants, événements, state
-- [React Router](https://reactrouter.com/) — navigation entre les pages
-- [Vite](https://vitejs.dev/) — bundler
+- [React](https://react.dev/) — components, events, state management
+- [React Router](https://reactrouter.com/) — client-side navigation
+- [Vite](https://vitejs.dev/) — build tool
 
-## 🚀 Lancer le projet en local
+## 🚀 Run Locally
 
 ```bash
-# Cloner le repo
 git clone https://github.com/wartwix/reservation-app.git
 cd reservation-app
-
-# Installer les dépendances
 npm install
-
-# Lancer le serveur de développement
 npm run dev
 ```
 
-L'application sera accessible sur `http://localhost:5173`.
+App will be available at `http://localhost:5173`.
 
-## 📁 Structure du projet
+## 📁 Project Structure
 
 ```
 src/
-├── components/     # Composants réutilisables (Navbar, ...)
-├── pages/          # Pages principales (Accueil, GestionReservations, ...)
+├── components/     # Reusable components (Navbar, ...)
+├── pages/          # Main pages (Accueil, GestionReservations, ...)
 ├── App.jsx
 └── main.jsx
 ```
 
-## 👥 Auteurs
+## 👥 Authors
 
 - Sadra
 - Mattéo
