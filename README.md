@@ -6,7 +6,7 @@ A web application for managing online reservations, built as a React practical a
 
 👉 **[https://wartwix.github.io/reservation-app/](https://wartwix.github.io/reservation-app/)**
 
-No download required — open the link and use it directly in your browser.
+No download required , open the link and use it directly in your browser.
 
 ## 📋 Description
 
@@ -62,7 +62,7 @@ Application web de gestion de réservations en ligne, développée dans le cadre
 
 👉 **[https://wartwix.github.io/reservation-app/](https://wartwix.github.io/reservation-app/)**
 
-Aucun téléchargement nécessaire — ouvrez le lien et utilisez l'application directement dans votre navigateur.
+Aucun téléchargement nécessaire , ouvrez le lien et utilisez l'application directement dans votre navigateur.
 
 ## 📋 Description
 
