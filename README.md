@@ -47,10 +47,6 @@ src/
 └── main.jsx
 ```
 
-## 👥 Authors
-
-- Sadra
-
 
 ---
 
@@ -103,7 +99,4 @@ src/
 └── main.jsx
 ```
 
-## 👥 Auteurs
 
-- Sadra
-- 
