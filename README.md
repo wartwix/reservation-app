@@ -50,7 +50,7 @@ src/
 ## 👥 Authors
 
 - Sadra
-- Mattéo
+
 
 ---
 
@@ -106,4 +106,4 @@ src/
 ## 👥 Auteurs
 
 - Sadra
-- Mattéo
+- 
